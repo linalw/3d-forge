@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3D Forge",
+  "description": "Transform 2D images into 3D mesh approximations using Gemini's multimodal analysis and geometry generation capabilities.",
+  "requestFramePermissions": []
+}
